@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&family=Style+Script&display=swap');
+html{
+    font-family: 'Style Script', cursive;
+    font-size: 2rem;
+
+}
+#main{
+    text-align: center;
+    color: darkblue;
+}
+
+#output{
+    text-align: center;
+    font-size: 2rem;
+
+}
+#is-triangle-btn{
+    /* text-align: center; */
+    font-family: 'Style Script', cursive;
+    font-size: 1rem;
+
+}
