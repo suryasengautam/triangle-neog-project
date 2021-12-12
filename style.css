@@ -1,0 +1,12 @@
+body {
+
+    text-align: center;
+    background-color: hotpink;
+    color: royalblue;
+    display: block;
+    padding-bottom: 1rem; 
+}
+
+#hypotenuse-btn {
+    color:red;
+}
